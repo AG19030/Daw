@@ -1,0 +1,74 @@
+.header-image {
+    width: 100%;
+    height: 700px;
+    object-fit: cover;
+    background-position: center;
+    background-size: contain;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+
+
+}
+
+.img-container {
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.img-container p {
+    position: absolute;
+    top: 55%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 0);
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+
+.description {
+    width: 60%;
+    margin:auto;
+
+    font-weight: bolder;
+    text-align: center;
+    color: #000000;
+}
+
+.title {
+
+    font-size: 25px;
+}
+
+.paragraph {
+    padding: 10px;
+}
+
+.companies-container {
+    width: 100%;
+    margin: 100px auto;
+    padding:20px;
+    background-color: rgb(255, 255, 0);
+}
+.companies {
+    width: 75%;
+    margin: 30px auto;
+}
+.card-body {
+    height: 300px;
+    background-color: rgb(255, 255, 0);
+}
+.animation:hover {
+background-color: white;
+}
+.title-section{
+    font-size: 30px;
+    color: rgb(0, 100, 0);
+    font-weight: bolder;
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
